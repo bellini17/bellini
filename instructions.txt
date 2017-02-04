@@ -1,0 +1,3 @@
+1 add ssh key to bellini17 on http://github.com/settings/ssh
+2 create git repository
+3 modify .git config file if push doesn't work. change url from git@github.... to https://github.com..
